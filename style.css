@@ -162,3 +162,59 @@ body {
     font-size: 22px;
     color: rgb(255, 249, 169);
 }
+
+.textslicice {
+    text-align: center;
+    font-style: italic;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    width: 300px;
+    height: 100px;
+    border: 1px solid rgb(0, 0, 0);
+    opacity: 0.8;
+    background-color: snow;
+    text-shadow: 0.5px 0.5px gold;
+    line-height: 12px;
+}
+
+.naslov {
+    font-size: 20px;
+    color: white;
+    text-shadow: 1px 1px rgb(46, 46, 45);
+    border: solid gold;
+    margin: 0;
+    padding: 0;
+    border-width: thin;
+    width: 300px;
+    height: 100px;
+    border: 1px solid rgb(0, 0, 0);
+    opacity: 1;
+    text-shadow: 0.3px 0.3px gold;
+    font-style: italic;
+}
+
+.desno {
+    text-align: center;
+    opacity: 0.4;
+    font-style: bold;
+    color: ghostwhite;
+    font-size: 20px;
+}
+
+#h12 {
+    text-align: center;
+    font-style: italic;
+    font-size: 40px;
+    color: white;
+    text-shadow: 0.3px 0.3px gold;
+}
+
+.divizija {
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    opacity: 1px;
+    text-shadow: 0.3px 0.3px gold;
+}
