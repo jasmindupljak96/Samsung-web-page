@@ -104,13 +104,14 @@ body {
 }
 
 .tabelanaslov {
-    text-align: center;
     color: White;
     text-shadow: 0.3px 0.3px darkgoldenrod;
     font-size: 30px;
-    border: 1px solid darkgoldenrod;
     opacity: 0.6;
     background-color: rgb(12, 12, 12);
+    font-style: italic;
+    text-align: center;
+    border: 1px solid darkgoldenrod;
 }
 
 .linija {
