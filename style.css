@@ -1,221 +1,222 @@
-body {
-    background-image: url("http://data1.ibtimes.co.in/cache-img-1200-388/en/full/625685/1488349983_samsung-galaxy-s7-smartphone-box-pictured-illustration.jpg");
-    background-attachment: fixed;
-}
-
-.h {
-    font-size: 50px;
-    text-align: center;
-    border: 1px solid rgb(255, 255, 255);
-    color: rgb(251, 250, 252);
-    border-radius: 15px;
-    text-shadow: 0.3px 0.3px darkgoldenrod;
-    padding-bottom: 20px;
-    opacity: 0.6;
-    background-color: rgb(12, 12, 12);
-    font-style: Italic;
-}
-
-.h2 {
-    font-size: 30px;
-    text-align: center;
-    color: rgb(251, 250, 252);
-    border-radius: 60px;
-    text-shadow: 0.3px 0.3px darkgoldenrod;
-    opacity: 0.6;
-    background-color: rgb(12, 12, 12);
-}
-
-.j {
-    border: 1px solid rgb(255, 255, 255);
-    border-radius: 15px;
-}
-
-#ul1 {
-    color: white;
-    columns: 2;
-    -webkit-columns: 2;
-    -moz-columns: 2;
-    text-align: center;
-    border-radius: 15px;
-    margin: 60px;
-    font-size: 21px;
-    text-shadow: 0.3px 0.3px darkgoldenrod;
-    opacity: 0.6;
-    background-color: rgb(12, 12, 12);
-}
-
-.Slika {
-    width: 270px;
-    height: 250px;
-    text-align: center;
-    padding-right: 30px;
-}
-
-#td1 {
-    text-align: center;
-    font-size: 14px;
-    font-style: italic;
-    color: rgb(255, 255, 255);
-}
-
-#jas {
-    width: 270px;
-    height: 250px;
-    text-align: right;
-    padding-right: 30px;
-}
-
-#jasm {
-    text-align: center;
-    font-size: 14px;
-    font-style: italic;
-    color: rgb(255, 255, 255);
-    padding-right: 30px;
-}
-
-#Jasmin1 {
-    width: 270px;
-    height: 250px;
-    text-align: center;
-    padding-right: 30px;
-}
-
-#jas1 {
-    text-align: center;
-    font-size: 14px;
-    font-style: italic;
-    color: rgb(255, 255, 255);
-    padding-left: 30px;
-}
-
-#ja1 {
-    text-align: center;
-    font-size: 14px;
-    font-style: italic;
-    color: rgb(255, 255, 255);
-}
-
-#j {
-    width: 270px;
-    height: 250px;
-    text-align: center;
-    padding-right: 30px;
-}
-
-.tabelanaslov {
-    color: White;
-    text-shadow: 0.3px 0.3px darkgoldenrod;
-    font-size: 30px;
-    opacity: 0.6;
-    background-color: rgb(12, 12, 12);
-    font-style: italic;
-    text-align: center;
-    border: 1px solid darkgoldenrod;
-}
-
-.linija {
-    color: darkgoldenrod;
-}
-
-.slike {
-    width: 600px;
-    height: 1000px;
-}
-
-#text {
-    color: white;
-    text-shadow: 0.3px 0.3px darkgoldenrod;
-    font-size: 15px;
-    opacity: 0.6;
-    background-color: rgb(31, 31, 31);
-}
-
-#s5 {
-    color: white;
-    text-shadow: 0.3px 0.3px darkgoldenrod;
-    font-size: 15px;
-    opacity: 0.6;
-    background-color: rgb(31, 31, 31);
-}
-
-#jalje {
-    color: white;
-    text-shadow: 0.3px 0.3px darkgoldenrod;
-    font-size: 15px;
-    opacity: 0.6;
-    background-color: rgb(31, 31, 31);
-}
-
-#s7 {
-    color: white;
-    text-shadow: 0.3px 0.3px darkgoldenrod;
-    font-size: 15px;
-    opacity: 0.6;
-    background-color: rgb(31, 31, 31);
-}
-
-.div {
-    text-align: center;
-    opacity: 0.6;
-    background-color: rgb(31, 31, 31);
-    font-style: italic;
-    font-size: 22px;
-    color: rgb(255, 249, 169);
-}
-
-.textslicice {
-    text-align: center;
-    font-style: italic;
-    font-size: 15px;
-    color: rgb(0, 0, 0);
-    width: 300px;
-    height: 100px;
-    border: 1px solid rgb(0, 0, 0);
-    opacity: 0.8;
-    background-color: snow;
-    text-shadow: 0.5px 0.5px gold;
-    line-height: 12px;
-}
-
-.naslov {
-    font-size: 20px;
-    color: white;
-    text-shadow: 1px 1px rgb(46, 46, 45);
-    border: solid gold;
-    margin: 0;
-    padding: 0;
-    border-width: thin;
-    width: 300px;
-    height: 100px;
-    border: 1px solid rgb(0, 0, 0);
-    opacity: 1;
-    text-shadow: 0.3px 0.3px gold;
-    font-style: italic;
-}
-
-.desno {
-    text-align: center;
-    opacity: 0.4;
-    font-style: bold;
-    color: ghostwhite;
-    font-size: 20px;
-}
-
-#h12 {
-    text-align: center;
-    font-style: italic;
-    font-size: 40px;
-    color: white;
-    text-shadow: 0.3px 0.3px gold;
-}
-
-.divizija {
-    text-align: center;
-    font-style: italic;
-    font-size: 20px;
-    color: white;
-    background-color: black;
-    opacity: 1px;
-    text-shadow: 0.3px 0.3px gold;
-}
+    body {
+        background-image: url("http://coolwallpaperz.info/user-content/uploads/wall/o/74/abstract-vector-wide-and-hd-black-79553.jpg");
+        background-attachment: fixed;
+    }
+    
+    .h {
+        font-size: 50px;
+        text-align: center;
+        color: rgb(251, 250, 252);
+        text-shadow: 0.3px 0.3px darkgoldenrod;
+        padding-bottom: 20px;
+        font-style: bold;
+    }
+    
+    .h2 {
+        font-size: 30px;
+        text-align: center;
+        color: rgb(251, 250, 252);
+        text-shadow: 0.6px 0.6px rgb(38, 0, 255);
+    }
+    
+    .j {
+        border: 1px solid rgb(255, 255, 255);
+        border-radius: 15px;
+    }
+    
+    #ul1 {
+        color: white;
+        columns: 2;
+        -webkit-columns: 2;
+        -moz-columns: 2;
+        text-align: center;
+        border-radius: 15px;
+        margin: 60px;
+        font-size: 21px;
+        text-shadow: 0.8px 0.8px rgb(0, 4, 255);
+    }
+    
+    .Slika {
+        width: 270px;
+        height: 250px;
+        text-align: center;
+        padding-right: 30px;
+    }
+    
+    #td1 {
+        text-align: center;
+        font-size: 14px;
+        font-style: italic;
+        color: rgb(255, 255, 255);
+    }
+    
+    #jas {
+        width: 270px;
+        height: 250px;
+        text-align: right;
+        padding-right: 30px;
+    }
+    
+    #jasm {
+        text-align: center;
+        font-size: 14px;
+        font-style: italic;
+        color: rgb(255, 255, 255);
+        padding-right: 30px;
+    }
+    
+    #Jasmin1 {
+        width: 270px;
+        height: 250px;
+        text-align: center;
+        padding-right: 30px;
+    }
+    
+    #jas1 {
+        text-align: center;
+        font-size: 14px;
+        font-style: italic;
+        color: rgb(255, 255, 255);
+        padding-left: 30px;
+    }
+    
+    #ja1 {
+        text-align: center;
+        font-size: 14px;
+        font-style: italic;
+        color: rgb(255, 255, 255);
+    }
+    
+    #j {
+        width: 270px;
+        height: 250px;
+        text-align: center;
+        padding-right: 30px;
+    }
+    
+    .tabelanaslov {
+        color: White;
+        text-shadow: 0.6px 0.6px rgb(4, 0, 255);
+        font-size: 60px;
+        font-style: bold;
+        text-align: center;
+        border: 2px solid blue;
+        width: 600px;
+        letter-spacing: 4px;
+        margin-left: 310px;
+    }
+    
+    .linija {
+        border: 0;
+        height: 5px;
+        background-image: linear-gradient(to right, rgba(40, 2, 255, 0), rgba(17, 0, 255, 0.295), rgba(0, 0, 0, 0));
+    }
+    
+    .slike {
+        width: 600px;
+        height: 950px;
+    }
+    
+    #text {
+        color: white;
+        text-shadow: 0.3px 0.3px rgb(255, 255, 255);
+        font-size: 15px;
+        line-height: 130%;
+        padding-bottom: 18px;
+        border: 2px solid black;
+        font-size-adjust: 0.58;
+    }
+    
+    #s5 {
+        color: white;
+        text-shadow: 0.3px 0.3px rgb(255, 255, 255);
+        font-size: 18px;
+    }
+    
+    #jalje {
+        color: white;
+        text-shadow: 0.3px 0.3px rgb(255, 255, 255);
+        font-size: 20px;
+    }
+    
+    #s7 {
+        color: white;
+        text-shadow: 0.3px 0.3px rgb(255, 255, 255);
+        font-size: 17px;
+        line-height: 130%;
+    }
+    
+    .div {
+        text-align: center;
+        font-style: italic;
+        font-size: 25px;
+        color: snow;
+    }
+    
+    .textslicice {
+        text-align: center;
+        font-style: italic;
+        font-size: 18px;
+        color: rgb(255, 255, 255);
+        width: 300px;
+        height: 100px;
+        border: 0;
+        height: 5px;
+        background-image: linear-gradient(to right, rgba(40, 2, 255, 0), rgba(17, 0, 255, 0.295), rgba(0, 0, 0, 0));
+        text-shadow: 0.5px 0.5px rgb(255, 255, 255);
+        line-height: 16px;
+    }
+    
+    .naslov {
+        font-size: 20px;
+        color: white;
+        text-shadow: 1px 1px rgb(46, 46, 45);
+        border: solid gold;
+        margin: 0;
+        padding: 0;
+        border-width: thin;
+        width: 300px;
+        height: 100px;
+        border: 1px solid rgb(0, 0, 0);
+        opacity: 1;
+        text-shadow: 0.3px 0.3px gold;
+        font-style: italic;
+    }
+    
+    .desno {
+        text-align: center;
+        opacity: 0.4;
+        font-style: bold;
+        color: ghostwhite;
+        font-size: 20px;
+    }
+    
+    #h12 {
+        text-align: center;
+        font-style: italic;
+        font-size: 40px;
+        color: white;
+        text-shadow: 0.3px 0.3px gold;
+    }
+    
+    .divizija {
+        text-align: center;
+        font-style: bold;
+        font-size: 25px;
+        color: white;
+        text-shadow: 0.3px 0.3px rgb(255, 255, 255);
+    }
+    
+    #jale {
+        text-align: center;
+        width: 700px;
+        height: 400px;
+        padding-left: 260PX;
+        padding-top: -60px;
+        margin-bottom: -60px;
+        margin-top: -100px;
+    }
+    
+    .hi {
+        font-style: bold;
+    }
