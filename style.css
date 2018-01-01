@@ -31,7 +31,7 @@ body {
 }
 
 .tekst {
-    text-align: center;
+    text-align: justify;
     font-style: georgia;
     color: white;
     font-size: 18px;
@@ -75,12 +75,12 @@ body {
 
 .thumb2 img {
     float: right;
-    height: 340px;
-    width: 170px;
+    height: 410px;
+    width: 310px;
 }
 
 .tekst2 {
-    text-align: center;
+    text-align: justify;
     font-style: georgia;
     color: white;
     font-size: 18px;
@@ -91,50 +91,27 @@ body {
 .thumb3 img {
     float: left;
     height: 370px;
-    width: 340px;
+    width: 350px;
 }
 
 .thumb4 img {
     float: right;
     height: 370px;
-    width: 340px;
+    width: 350px;
 }
 
 .thumb5 img {
+    height: 440px;
+    width: 330px;
     float: left;
-    height: 370px;
-    width: 550px;
 }
 
 .thumb5 {
-    float: left;
     font-style: georgia;
     color: white;
     font-size: 18px;
     text-shadow: 0.4px 0.4px blue;
     line-height: 130%;
-}
-
-.thumb6 img {
-    height: 500px;
-    width: 500px;
-}
-
-.thumb6 {
-    float: left;
-    color: white;
-    text-align: center;
-}
-
-.thumb7 {
-    color: white;
-    float: right;
-    text-align: center;
-}
-
-.thumb7 img {
-    height: 330px;
-    width: 330px;
 }
 
 ul {
@@ -167,6 +144,15 @@ ul li a:hover {
     background: rgb(38, 0, 255);
 }
 
+ul li a:hover {
+    background: rgb(38, 0, 255);
+}
+
+li:hover ul {
+    display: block;
+    position: absolute;
+}
+
 li:hover ul {
     display: block;
     position: absolute;
@@ -188,7 +174,42 @@ li:hover li a:hover {
     border-top: 0px;
 }
 
-#drop-nav {
+.drop-nav {
+    padding-left: 8cm;
+}
+
+.tekst22 {
+    text-align: justify;
+    font-style: georgia;
+    color: white;
+    font-size: 18px;
+    text-shadow: 0.4px 0.4px blue;
+    line-height: 130%;
+    float: left;
+}
+
+.tekst22 img {
+    float: left;
+    height: 410px;
+    width: 390px;
+}
+
+.tekst23 {
+    text-align: justify;
+    font-style: georgia;
+    color: white;
+    font-size: 18px;
+    text-shadow: 0.4px 0.4px blue;
+    line-height: 130%;
+    float: left;
+}
+
+.tekst23 img {
     float: right;
-    padding-right: 280px;
+    height: 330px;
+    width: 330px;
+}
+
+#drop-nav li ul:hover a {
+    background: rgb(1, 0, 46);
 }
